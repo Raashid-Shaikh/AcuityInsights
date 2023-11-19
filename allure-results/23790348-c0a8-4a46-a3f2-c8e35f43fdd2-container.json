@@ -1,0 +1,1 @@
+{"uuid":"23790348-c0a8-4a46-a3f2-c8e35f43fdd2","name":"test.NavTest.setUp","children":["fd6079f0-986b-41f8-b27b-dd40b14181a3"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700296049292,"stop":1700296055465}],"afters":[],"start":1700296049290,"stop":1700296055466}

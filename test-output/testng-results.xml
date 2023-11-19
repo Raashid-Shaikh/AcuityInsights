@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-18T17:26:55Z" name="Default suite" finished-at="2023-11-18T17:27:16Z" duration-ms="20411">
+    <groups>
+    </groups>
+    <test started-at="2023-11-18T17:26:55Z" name="Default test" finished-at="2023-11-18T17:27:16Z" duration-ms="20411">
+      <class name="test.NavTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.NavTest@14008db3]" started-at="2023-11-18T17:26:55Z" name="setUp" finished-at="2023-11-18T17:27:01Z" duration-ms="5703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickButtons()[pri:1, instance:test.NavTest@14008db3]" started-at="2023-11-18T17:27:01Z" name="clickButtons" finished-at="2023-11-18T17:27:07Z" duration-ms="5988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtons -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.NavTest@14008db3]" started-at="2023-11-18T17:27:07Z" name="tearDown" finished-at="2023-11-18T17:27:08Z" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.NavTest@14008db3]" started-at="2023-11-18T17:27:08Z" name="setUp" finished-at="2023-11-18T17:27:12Z" duration-ms="4441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="handleLogin()[pri:2, instance:test.NavTest@14008db3]" started-at="2023-11-18T17:27:12Z" name="handleLogin" finished-at="2023-11-18T17:27:15Z" duration-ms="2852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.NavTest@14008db3]" started-at="2023-11-18T17:27:15Z" name="tearDown" finished-at="2023-11-18T17:27:16Z" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.NavTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
